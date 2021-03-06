@@ -61,6 +61,7 @@ public class Aes {
      *
      * @param originalText 原文
      * @param seed         种子（密码）
+     * @return 返回 加密结果
      * @throws NoSuchAlgorithmException  算法类型异常
      * @throws NoSuchPaddingException    算法填充异常
      * @throws InvalidKeyException       无效的密钥异常
@@ -78,6 +79,7 @@ public class Aes {
      *
      * @param originalText 原文
      * @param seed         种子（密码）
+     * @return 返回 加密结果
      * @throws NoSuchAlgorithmException  算法类型异常
      * @throws NoSuchPaddingException    算法填充异常
      * @throws InvalidKeyException       无效的密钥异常
@@ -94,6 +96,7 @@ public class Aes {
      *
      * @param originalText 原文
      * @param seed         种子（密码）
+     * @return 返回 加密结果
      * @throws NoSuchAlgorithmException  算法类型异常
      * @throws NoSuchPaddingException    算法填充异常
      * @throws InvalidKeyException       无效的密钥异常
@@ -111,6 +114,7 @@ public class Aes {
      *
      * @param cipherText 密文
      * @param seed       种子（密码）
+     * @return 返回 解密原文
      * @throws NoSuchAlgorithmException  算法类型异常
      * @throws NoSuchPaddingException    算法填充异常
      * @throws InvalidKeyException       无效的密钥异常
@@ -128,6 +132,7 @@ public class Aes {
      *
      * @param cipherText 密文
      * @param seed       种子（密码）
+     * @return 返回 解密原文
      * @throws NoSuchAlgorithmException  算法类型异常
      * @throws NoSuchPaddingException    算法填充异常
      * @throws InvalidKeyException       无效的密钥异常
@@ -146,6 +151,7 @@ public class Aes {
      *
      * @param cipherText 密文
      * @param seed       种子（密码）
+     * @return 返回 解密原文
      * @throws NoSuchAlgorithmException  算法类型异常
      * @throws NoSuchPaddingException    算法填充异常
      * @throws InvalidKeyException       无效的密钥异常
