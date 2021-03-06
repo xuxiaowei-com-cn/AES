@@ -6,7 +6,7 @@
 
     <groupId>cn.com.xuxiaowei.utils</groupId>
     <artifactId>aes</artifactId>
-    <version>0.0.1</version>
+    <version>0.0.2</version>
     <name>aes</name>
     <description>AES 对称性加密工具</description>
     <url>https://github.com/xuxiaowei-com-cn/AES</url>
