@@ -46,3 +46,8 @@ System.out.println("解密结果：" + decryptStr);
 ### 其他示例
 
 - String、byte 类型的示例，查看测试类
+
+## JS
+
+- [crypto-js](https://cdnjs.com/libraries/crypto-js)
+
